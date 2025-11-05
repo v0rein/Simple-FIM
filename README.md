@@ -20,10 +20,10 @@ Proyek ini terdiri dari dua bagian:
 Dashboard web memberikan gambaran visual cepat tentang status pemeriksaan terakhir.
 
 **Kondisi Aman:**
-![Contoh Dashboard FIM dalam kondisi aman]({1F2A01BC-64B3-4404-9487-018B5E64909B}.png)
+![Contoh Dashboard FIM dalam kondisi aman](assets/GOOD.png)
 
 **Kondisi Peringatan (Setelah Anomali Terdeteksi):**
-![Contoh Dashboard FIM setelah mendeteksi anomali]({170D58FE-210C-4C8D-A81D-5C2F1D36B2B4}.png)
+![Contoh Dashboard FIM setelah mendeteksi anomali](assets/BAD.png)
 
 ## ⚙️ Persyaratan
 
